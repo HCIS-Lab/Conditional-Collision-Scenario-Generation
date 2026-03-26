@@ -1,6 +1,6 @@
 # Controllable Collision Scenario Generation via Collision Pattern Prediction
 
-[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge)](https://plchen86157.github.io/conditional_scenario_generation/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge)](https://hcis-lab.github.io/conditional_scenario_generation/)
 [![Video Overview](https://img.shields.io/badge/Video-Overview-red?style=for-the-badge)](https://www.youtube.com/watch?v=W-_sarZqfMo)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.12206-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2510.12206)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE)
